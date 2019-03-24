@@ -1,5 +1,6 @@
 # Tic-Tac-Toe-1.0
 Jeu de Tic Tac Toe
+
 Le fichier TTT.java contient une interface graphique. 
 
 Le fichier Grille.java contient le code java, utilisant Swing et AWT, pour interagir avec le joueur « X ». Elle représente une grille de Tic Tac Toe sur laquelle on peut cliquer pour choisir la position du prochain X.
