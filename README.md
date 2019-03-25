@@ -1,4 +1,7 @@
 # Tic-Tac-Toe-1.0
+Langage Utilisé : Java
+IDE : Eclipse
+
 Jeu de Tic Tac Toe
 
 Le fichier TTT.java contient une interface graphique. 
