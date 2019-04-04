@@ -2,7 +2,7 @@
 *Langage Utilisé :* Java
 *IDE :* Eclipse
 
-##Jeu de Tic Tac Toe
+## Jeu de Tic Tac Toe
 
 **TTT.java** contient une interface graphique. 
 
